@@ -21,7 +21,6 @@ void printPerm(string &str, int l)
 }
 
 
-void perm(string str, string perm, 
 int main()
 {
 	cout << "This is perm test\n";

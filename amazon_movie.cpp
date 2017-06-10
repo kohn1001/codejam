@@ -1,9 +1,9 @@
 //
 //  amazon_movie.cpp
-//  codejam
+//  Good interview question 
 //
 //  Created by Nathaniel Kohn on 11 M 2017.
-//  Copyright © 2017 Nathaniel Kohn. All rights reserved.
+//  
 //
 
 #include <iostream>
